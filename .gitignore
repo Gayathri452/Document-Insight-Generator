@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+data/*
+.env
+CODE_REVIEW.md
+analysis_history.json
+ENVIRONMENT_VARIABLES_FIX.md
+pytest.ini
+tests
